@@ -1,0 +1,17 @@
+/* COLOR NAME */
+/* h1{
+    color: tomato;
+} */
+
+/* HEX CODE */
+/* hex code : in hexa code we can use randmly number with #sing  for it also can take
+ help by typing colour picker */
+/* h1{
+    color: #abeb34;
+} */
+
+/* RGB */
+/* maximum limite is 255 */
+h1{
+    color: rgb(  125, 236, 216   )
+}

@@ -1,0 +1,12 @@
+/* BACKGROUND COLOR */
+/* we can also try it by three ways i-e by name, rgb, hexacode */
+/* body{
+    
+    background-color: rgb(19, 25, 08);
+    color: red;
+} */
+
+div{
+    background-color: antiquewhite ;
+    color: red;
+}
